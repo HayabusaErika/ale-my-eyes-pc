@@ -1,9 +1,9 @@
 [workspace]
 members = [
-    "ale-core",
     "ale-cli",
     "ale-gui",
 ]
+exclude = ["ale-core"]
 resolver = "2"
 
 [workspace.dependencies]

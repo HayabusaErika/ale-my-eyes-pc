@@ -23,7 +23,7 @@ This repository contains the desktop (Windows/Linux) version of the Ale, My Eyes
 ### Prerequisites
 
 - Rust toolchain (stable)
-- Linux dependencies: `libspeechd-dev libasound2-dev libfontconfig-dev libpipewire-0.3-dev libwayland-dev libxrandr-dev libdbus-1-dev libegl-dev libgbm-dev libxcb-shape0-dev libxcb-xfixes0-dev`
+- Linux dependencies: `libspeechd-dev libasound2-dev libfontconfig-dev libpipewire-0.3-dev libwayland-dev libxrandr-dev libdbus-1-dev libegl-dev libgbm-dev libxcb-shape0-dev libxcb-xfixes0-dev libclang-dev`
 
 ### Build
 

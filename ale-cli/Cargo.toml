@@ -6,7 +6,7 @@ description = "CLI tool for Ale, My Eyes!"
 license = "MIT"
 
 [dependencies]
-ale-core = { path = "../ale-core" }
+ale-core = { path = "../ale-core/ale-core" }
 tracing-subscriber = "0.3"
 clap = { version = "4", features = ["derive"] }
 env_logger = "0.11"
